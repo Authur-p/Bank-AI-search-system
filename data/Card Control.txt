@@ -1,0 +1,7 @@
+Card Control
+Personal
+Control the use of your Card.
+
+
+
+The Card Control feature allows you to manage/control the usage of your cards across web, POS and ATM touchpoints. You can enable or disable your card at will via the ALAT app.

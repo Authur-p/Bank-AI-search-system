@@ -1,0 +1,50 @@
+Wema Bank — Loans & Credit Products (Expanded)
+
+Overview:
+Wema Bank offers a range of loan products for salaried individuals, small businesses, and enterprise customers. Loan terms, interest rates, and eligibility vary by product. Wema encourages responsible borrowing and outlines clear repayment terms at application time.
+
+Product Types:
+1. Fixed-Term Loans (Salary-backed):
+- Target users: Salaried employees.
+- Features: Borrowing tied to net salary multiples; immediate disbursement to domiciled salary accounts; fixed monthly repayment schedules.
+- Limits & tenure: Multiples of net salary up to a capped maximum; typical maximum tenor is 24 months.
+- Documentation: Proof of salary, employer confirmation, BVN verification.
+
+2. Personal Loans:
+- Target users: Individuals for general purpose (education, healthcare, home improvements).
+- Features: Unsecured in some cases (for salary account holders), competitive rates for qualified applicants, option for top-up after good repayment history.
+- Requirements: Salary domiciliation often required; credit history review.
+
+3. Overdrafts & Business Facilities:
+- Target users: SMEs and corporate clients.
+- Features: Revolving credit lines against business cashflow, overdraft facilities linked to account activity, negotiated rates and collateral (if required).
+- Requirements: Financial statements, corporate documentation, director KYC, and sometimes collateral.
+
+4. Agricultural & Specialized SME Loans:
+- Target users: Farmers, agribusinesses, and MSMEs meeting eligibility.
+- Features: Tailored repayment schedules aligned with cashflow cycles, potential government or donor-backed guarantees, and advisory support.
+- Requirements: Business plan, cashflow forecast, KYC, and site visits for higher-risk exposures.
+
+5. Instant Loans (ALAT/quick-credit):
+- Target users: Eligible digital customers with behavioral data and repayment records.
+- Features: Fast disbursement, smaller ticket sizes, short tenor, automated eligibility checks.
+- Requirements: App usage history, repayment behavior, and sometimes salary inflow.
+
+Risk & Eligibility Assessment:
+- KYC & BVN checks to verify identity and prevent duplication of identities.
+- Credit scoring based on account history, transaction patterns, existing liabilities, and external credit bureaus (where available).
+- Enhanced due diligence for higher ticket loans, including documentation and in-person verification.
+
+Repayment & Defaults:
+- Repayments via standing orders, direct debit, or manual transfers.
+- Early repayment may be allowed; check if there are penalties or repricing.
+- In case of default, collection steps include notices, restructuring discussions, and legal recovery for significant overdue amounts.
+
+Responsible lending guidance for customers:
+- Borrow within means; ensure the repayment plan fits expected income.
+- Understand interest rate type (fixed vs. variable) and all fees before signing up.
+- Maintain open communication with the lender if repayment difficulties arise — banks may offer restructuring options.
+
+Regulatory & Compliance notes:
+- Loan products must adhere to local central bank regulations, disclosure standards, and consumer protection guidelines.
+- Interest rate disclosures and all charges should be presented upfront during the application process.

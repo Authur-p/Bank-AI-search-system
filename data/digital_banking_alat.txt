@@ -1,0 +1,36 @@
+ALAT by Wema — Digital Banking Overview (Expanded)
+
+ALAT is Wema Bank's fully-digital banking platform. It is designed to give customers an end-to-end banking experience on mobile and web without needing to visit a branch for routine tasks. Below are features, user journeys, safety measures, and tips for maximizing ALAT.
+
+Core Features:
+- Account opening: Fully digital onboarding with ID and BVN checks (where applicable).
+- Savings goals: Create multiple goals, target amounts, and automated contributions.
+- Card controls: Turn cards on/off, set limits, and monitor transactions in real time.
+- Transfers: Instant transfers to local banks, scheduled payments, and beneficiary management.
+- Bills & utilities: Pay electricity, cable, internet, and other recurring bills from the app.
+- Loans & quick credit: Apply for small loans or instant credit products (subject to eligibility).
+- Notifications: Real-time SMS/push notifications for transactions and security alerts.
+
+User Experience & Flows:
+- Registration: Download app, verify phone, complete KYC steps, and link BVN if required.
+- Security: Login via PIN/biometrics (where available). Sensitive actions require re-authentication.
+- Goals automation: Set recurring transfers into round-ups or scheduled debits that feed specific goals.
+- Customer support: In-app chat and escalation pathways; some issues may require phone support or branch visits.
+
+Security Practices:
+- Never share OTPs, pins, or card details. ALAT will not ask for full PINs or OTPs via chat or email.
+- Enable biometric login and use a device PIN to harden app access.
+- Keep the app updated; new releases often patch vulnerabilities and improve fraud detection.
+- Use in-app card controls to quickly pause card usage if compromised.
+
+Troubleshooting & Best Practices:
+- If a transaction fails, check network connectivity, app version, and beneficiary details. If uncertain, contact customer support with transaction references.
+- Use strong unique passwords for your email and bank credentials.
+- Regularly reconcile statements for business users to quickly spot anomalies.
+
+ALAT for business:
+- Business users can access payroll features, bulk payment tools, and reporting dashboards.
+- APIs and integrations may be available for enterprise clients to automate collections and reconcile funds.
+
+Regulatory disclaimers:
+- Some features are subject to eligibility checks, local regulations, and banking hours for settlement (e.g., interbank transactions may settle on business days).

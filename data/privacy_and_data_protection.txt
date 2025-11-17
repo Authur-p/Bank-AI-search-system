@@ -1,0 +1,30 @@
+Privacy & Data Protection — Wema Bank (Expanded)
+
+Core Commitments:
+Wema Bank respects individuals' privacy and processes personal and financial data for legitimate banking purposes only. The bank implements technical, organizational, and contractual safeguards to protect customer data and ensure compliance with applicable data protection laws.
+
+Data Collected & Purpose:
+- Identity information: Names, date of birth, national ID, BVN, passport where necessary.
+- Contact & transactional data: Phone numbers, email, transaction history for service delivery and fraud detection.
+- Usage & device data: App/device identifiers to detect anomalies and enhance security.
+- Legal/policy uses: KYC, AML checks, regulatory reporting, and dispute resolution.
+
+Data Handling Practices:
+- Data minimization: Collect only what is necessary for the stated purpose.
+- Access controls: Role-based permissions limit who can see sensitive data internally.
+- Encryption: Data at rest and in transit is encrypted using industry-standard algorithms.
+- Retention: Data is retained according to legal/regulatory retention schedules and securely disposed of when no longer needed.
+
+Customer Rights:
+- Access: Request copies of personal data held by the bank.
+- Rectification: Correct inaccurate or outdated personal data.
+- Restriction or erasure: Subject to legal/regulatory constraints, customers can request data deletion or restriction.
+- Consent management: Where processing requires consent, customers can withdraw consent (processing may continue where legal bases apply).
+
+Third-party sharing:
+- The bank shares data with service providers, payment networks, and regulators on a need-to-know basis and under strict contractual terms.
+- Cross-border transfers follow legal safeguards, and customers are informed where relevant.
+
+Breach response:
+- Notification: In case of a data breach that risks customer rights, the bank will notify affected customers and regulators as required by law.
+- Mitigation: Steps to contain, investigate, and remediate are executed swiftly, with forensic analysis where needed.

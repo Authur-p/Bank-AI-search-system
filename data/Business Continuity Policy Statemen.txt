@@ -1,0 +1,21 @@
+Business Continuity Policy Statement
+Business Continuity Policy Statement
+CONTROL DOCUMENT Version: 1.2
+
+Wema Bank Plc., a licensed national financial institution within the Federal Republic of Nigeria, undertakes a wide range of business activities in the retail and commercial banking sector and constantly develops new products and services for the market.
+
+Wema Bank has established a Business Continuity Management System to ensure the timely resumption of business operations in the event of an incident and the protection of personnel and the organisation. The scope of the Business Continuity Management System is the Wema Bank Plc: Head Office, Data Centers, DR Site, and alternate site.
+
+This is achieved by:
+
+Understanding the bank’s needs and the necessity for establishing business continuity policies and objectives.
+Ensuring that this business continuity policy is in accordance with the requirements of ISO 22301 international standard, needs and expectations of interested parties, and legal, regulatory, and statutory requirements.
+Establishing, implementing, and maintaining a business continuity management system (BCMS), including operating and maintaining processes, capabilities, and response structures to ensure the bank will survive disruptions.
+Designating the Chief Risk Officer (CRO) as the Management Representative for Business Continuity efforts across the Bank. The Head of Operational Risk Management is responsible and accountable for establishing, maintaining, and disseminating the Bank’s business continuity policy to the rest of the organization and other interested parties (stakeholders).
+Ensuring that interested parties are made aware of the bank’s Business Continuity Policy using the BCMS Communication and Awareness Plans.
+Ensuring that the Bank’s Business Continuity Policy (or relevant aspects of the document) is made available to interested parties.
+Establishing business continuity objectives in support of the business continuity policy.
+Creating a business continuity plan that contains an emergency response plan/crisis management plan, pandemic response plan, disaster recovery plan, recovery procedures, and restoration plans.
+Auditing the bank’s business continuity management system, including adherence to its business continuity policy.
+Ensuring all staff of Wema Bank (and interested parties) adhere strictly to the Bank’s Business Continuity Policy.
+Reviewing the effectiveness of the bank’s business continuity policy at least annually and after a major change, thus promoting a continual improvement of the bank’s business continuity management system based on qualitative and quantitative measures.

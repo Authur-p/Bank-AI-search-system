@@ -1,0 +1,26 @@
+Customer Support & Contacts — Wema Bank (Expanded)
+
+Support Channels:
+- In-app chat: Real-time assistance for many common issues; escalation to human agents when required.
+- Phone: Dedicated contact centers with hours listed by region; emergency hotlines for card or account compromise.
+- Email & web forms: For non-urgent requests, complaints, and documentation uploads.
+- Social media: Monitoring for service issues and public updates (useful for outage notices).
+
+What to provide when reporting issues:
+- Transaction reference number, date/time, and affected account to speed investigation.
+- Screenshots or error messages when possible.
+- Proof of identity when escalating sensitive issues.
+
+Common support scenarios & tips:
+- Lost/stolen card: Immediately lock via app or call support to hotlist the card; follow up with a written dispute if fraudulent charges occur.
+- Unauthorized transaction: File a dispute and provide any evidence; keep communication records and follow up on investigation timelines.
+- Account access issues: Verify device and app versions, check for maintenance windows, and confirm credentials. Consider resetting via official channels if required.
+- Loan or account queries: Have loan reference, repayment schedule, or account statements ready to streamline support.
+- Feedback & complaints: Use official complaint forms to ensure the matter is tracked and resolved within service timelines. Ask for a complaint reference number.
+
+Availability & SLAs:
+- Response times vary by channel and severity; critical account compromise issues receive immediate attention while standard queries follow published turnaround times.
+- Keep contact details updated to ensure alerts and OTPs reach you during investigations.
+
+Security reminder:
+- The bank will never request full PINs, passwords, or OTPs through chat or phone calls. Always verify official contact points before sharing sensitive details.

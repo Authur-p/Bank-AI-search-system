@@ -1,0 +1,253 @@
+
+
+Fraud Management Policy 
+ Introduction
+Wema Bank PLC is committed to the highest possible standards of transparency and accountability in all her business. The Bank is determined to maintain a culture of honesty and opposition to fraud and corruption
+The Bank will not tolerate fraud, theft or dishonesty. AII reported incidents, including internal fraud will be thoroughly investigated with the utmost objectivity and confidentiality. The Bank will take firm and vigorous actions against any individual or group who has committed a fraud. Such action may involve disciplinary action, civil and/or criminal legal proceedings. Disciplinary proceedings may result in the dismissal of an employee. The bank will maintain an effective fraud control environment to ensure fraud prevention and detection.
+The Wema Bank Fraud Management Policy outlined employees’ expected behavior, how to report a suspected fraud, the role of various departments/business units within the Bank‹ and the Bank’s commitment to increasing employees' awareness, training and recording of possible fraud.
+The Fraud Management Policy should be read in conjunction with Anti-bribery and Corruption Policy, Enterprise Risk Management Policy, Operational Risk Management Policy. Human Capital Management Policy and Whistle Blowing Policy of the Bank.
+Scope
+This policy applies to any fraud, irregularity, or suspected irregularity involving employees as well as shareholders, consultants, vendors, contractors and/or any other parties with a business relationship with Wema Bank PLC including outsider who had committed fraud on Wema Bank PLC
+Any investigative activity required will be conducted without regard to The suspected wrong doer‘s length of service, position/title or relationship with the Bank.
+Version Control
+Version Serial No. Date Revision Description Remark
+1.0 001 july, 2021 Policy prepared by Wema Bank PLC
+2.0 002 August 2023 Reviewed Policy by Wema Bank PLC
+The Chief Audit Executive, Chief Compliance Officer. Chief Information Security Officer and Chief Risk Officer are responsible for the administration, revision, interpretation, and application of rhi3 policy, The Po1icy will be reviewed biennially and revised on need-to-do basis.
+Purpose
+Wema Bank PLC does not condone fraudulent behavior. This policy covers guidelines and responsibilities regarding appropriate actions that must be followed to increase the awareness of the prevention and the investigation of fraud. The fundamental purpose of this policy is to ensure that each business within Wema Bank PLC has the element in place that are necessary to prevent and detect fraud that can originate internally and externally.
+The underlying threat of fraud is a cost of doing business within the financial services industry Individuals and organized crime groups have historically targeted financial institutions to obtain account information and funds by exploiting vulnerabilities through a variety of fraud schemes.
+Fraud occurs from two sources, internal and external with occasions of collusion. This policy applies to any fraud, irregularity or suspected Irregularity, involving employees and/or any other parties in a business relation5hlp with Wema Bank PLC. Regardless of the fraud scheme, financial institutions fate a significant problem and challenge in managing the fraud threat as well as applying resources needed to counter the threat.
+The Bank is committed Fa protecting her revenue, expenditure and assets or those of its customers from any attempt by members of the public, contractors, agents, intermediaries or its own employees to gain financial or other benefits by deceit or dishonest conduct.
+The result of not addressing fraud risk at a consistent and effective level is financial loss, lo3s of reputation and trust within the marketplace, as well as potentially violating Specific regulatory controls.
+The policy is designed to protect public money and assets and to protect the integrity, security and reputation of the Bank, her employees and the services it provides to the general public. The future, health and reputation of Wema Bank Plc are dependent. in part, on how well it manages the threat of fraud. The usage of this policy is in conjunction with Information Security Policy, Whistle Blowing Policy and Human Capital Management Policy of the Bank.
+The objective of the policy is to establish a common understanding of:
+• what fraud is
+• how to prevent fraud
+• actions the bank employees and other stakeholders should take if they suspect fraudulent activity.
+Definition of Fraud
+Fraud is dishonestly obtaining a benefit, or causing a loss, by deception or other means. The term ’fraud‘ refers to an intentional act by one or more individuals involving be use of deception to obtain an unjust or illegal advantage. The key element of fraud Is dishonesty.
+Fraud can be operational or electronic. For the purposes of this Policy, ‘Fraud‘ includes attempted fraud and consists of but is not limited to the following:
+Asset misappropriation - Cash
+• Theft of cash/suppression
+• Theft of funds through electronic banking
+Asset misappropriation - Non-cash
+Unlawful use of, ar unlawful obtaining of plant, equipment, goods or services
+• Theft of intellectual property
+* Disclosing confidential information to outside parties without authority for personal gain
+Asset misappropriation - Others
+• False claim for workers compensation
+• False claim for accidents or other claims
+Asset misappropriation - Fraudulent disbursements
+• Falsifying expense claims or expense padding
+• Corporate credit card misuse
+• False invoicing
+• Payroll falsification
+• Forgery or alteration of any document
+Corruption
+• Overcharging for goods and services
+• Recording Credits for goods and services provided and refunding for personal benefit
+• Secret commissions (kickback received by employees) and not in line with policy
+• Acceptance of goods and services as inducement to giving work to any supplier/Vendor
+• Collusive bidding
+• Insider trading
+Fraudulent statements
+• False accounting
+• Material and deliberate misstatement of accounting information
+• intentional statements of incorrect or misleading employment history/education qualifications
+• Providing fal5e or misleading information or failing to provide information when there is an obligation to do so
+• Causing a loss, or avoiding and/or creating a liability
+Electronic Fraud: This includes Fraud perpetrated via ATM, POS, Web, USSD/SMS and Internet banking platforms.
+How do we prevent Fraud?
+A system of internal control has been implemented to prevent fraud from occurring. Key fraud prevention controls include:
+• Upholding the standards of behavior detailed within the HCM PoI1cy Manual- The Manual provides a set of guiding principles to help our people make decisions in their day to day work to ensure that they maintain high ethical standards
+• Compliance with the law and Wema Bank Plc.’s polices and procedures, Wema Bank PLC has designed systems and processes that comply with the law and provides relevant policies and training to help our people achieve this.
+• Wema Bank PLC Risk management process. Wema Bank PLC has adopted the Enterprise and Operational Risk management process as part of normal business practices. To prevent fraud from occurring, the Bank identifies and evaluates internal and external fraud threats and implements preventative controls that mitigate or minimize significant fraud risks.
+• Fraud Vulnerably Assessment. At regular intervals, Wema Bank PLC undertakes an organization-wide risk assessment of its operational and strategic fraud risks which provides clarity and understanding around the full spectrum of fraud risks,
+• Background check on staff from Central Bank of Nigeria and Law Enforcement Agency before confirmation of their employment
+• Confirmation of Certificates presented by the new employee to the Bank before confirmation of employment
+• Managers and Supervisors employ sound fraud risk management practices within all activities for which they are responsible and ensure the effective operations of the following preventive controls:
+• Adequate separation of duties (more than one employee is Involved in key tasks)
+• proper authorization procedures transactions must be recommended and
+• physical security over the bank’s assets and
+• independent monitoring and checking of data and documentation (checks and balances).
+• Administrative Controls formalize standards, rules, procedures and control discipline to ensure that the organization’s general and application controls are properly governed, executed and enforced. These are enshrined in frameworks. Wema bank use3 the Control Objectives for Information and Related Technology version 5 (COBIT 5) framework for Information systems control governance
+• Application Input Controls. These controls check data for accuracy and completeness when they log into the system. There are specific input controls for input authorization, data conversion, data editing and error handling
+• Application Processing Controls. These controls establish that data are complete and accurate during processing and updating.
+• Application Output Controls. These controls ensure that the results of computer processing are accurate, complete, and properly distributed.
+• Network Controls. These are controls such as Firewalls which help prevent unauthorized access to the banks' corporate network.
+• Data Security Controls ensure critical business data are not subjected to unauthorized access, change Dr destruction while they are in use or In storage.
+• Ensuring complexity of passwords used by staff to access the Bank’s network and other Applications
+• Disabling or staff access ro the Bank's network during vacation or leave of absence.
+• Network segmentation to prevent unauthorized access
+• Review of system logs to identify anomaly and to guard against such once discovered.
+How Is Fraud Detected?
+A system of internal control has been implemented to detect fraud as soon as possible after it has occurred. Key fraud detection controls include:
+• Inappropriate approval and authorization processes.
+• independent reconciliations
+• physical checks /stock-taking
+• Providing fal5e or misleading information or failing to provide information when there is an obligation to do so
+• whistle blowing
+• analysis of management accounting reports
+• Network Intrusion detection solution For detecting unauthorized access to the bank’s corporate network
+• File Integrity monitoring Solution for detecting Unauthorized changes to critical system configuration files.
+• Database Activity Monitoring Solution for detecting unauthorized activities at the back-end or database level
+Security Information and Event Management (SIEM) which performs real-time analysis of security alert5 and audit logs generated by application and servers to detect unauthorized activities
+On a regular basis, Internal Audit Department will perform forensic data analysis, unannounced audit‹ end a rolling program of audits focusing on the effectiveness of fraud prevention and detection controls.
+Investigation
+
+An investigation of fraudulent activity or irregularity will be undertaken by appropriately qualified personnel in the Internal Audit Department depending on the matter and the content of the disclosure.
+The aim of the investigation of the fraudulent activity is to Substantiate or refute the claims, identify the root cause of an event, make recommendations to management on ways to prevent re-occurrence and appropriate sanction of any erring employee.
+There are some times where a customer has complained of fraud on his/her account and there is exigency to refund a complainant before the conclusion of the investigation, Chief Audit Executive will obtain an exceptional approval from Management to refund the ‹complainant pending the conclusion of the investigation. This will usually be done where preliminary review has shown that the affected customer is not involved in the conformed fraud.
+Upon the approval, ir the complainant is genuinely due for the refund, the appropriate General Ledger (Fraud & Forgery) account will be debited and affected customer'S account will be credited.
+If a staff benefited from the fraud, the fraudulent staff will be arrested after interrogation for possible recovery and/or prosecution. Chief Audit Executive will file and process the claim from the insurers through the Brokers of the Bank on Fidelity Insurance Policy after submitting the Internal investigation report and documents evidencing the fraud,
+Insurance company will appoint a Loss Adjuster who will review the case and conduct an investigation to confirm if the amount claimed Is due for Indemnity or otherwise Where the fraud is due to control lapses, a penal charge is applied and the balance thereof less Policy excess charge is advised Fa the Bank via Discharge Voucher which will be executed by the representative of the Bank.
+Where the fraud is committed by a third party against the bank or her customer, the address of the third party who benefitted from the proceeds of fraud will be obtained from his/her Bank via a Baskets Order through the instrumentality of the Pa\ice. The Police will thereafter visit the address to apprehend the suspect for interrogation, recovery, and prosecution by NIBSS if he/she is a customer of the bank, otherwise, his/her BVN Shall be Watch Listed by NIBSS through the request of be Chief Audit Executive of his/her Bank.
+In respective of the individual involved in the fraud, Head, Security Desk in Internal Audit Department will follow up with the Police and the Court to ensure judgement is delivered on the case at a Court of competent jurisdiction.
+Staff who had been discovered to be involved in the fraud and/or negligent in the course of duty which had allowed the fraud will be summoned to face the panel of Disciplinary Committee of the Bank to explain his/her role on the incident. The Committee is headed by one of the Executive Directors or its Designate with the Chief Human Resources Officer, Chief Audit Executive, Chief Compliance Officer and Plead, Operations as members of the Committee while Heads of Unions and other relevant officers of the Bank are observers. The decision of the Disciplinary Committee will be presented to the Executive Committee for ratification before it becomes binding on the staff.
+The Bank usually dismiss the staff who has been established to be involved in a fraud from her employment, The bank will notify the Secretary, Banking Supervision, Central Bank of Nigeria and Executive Director, Operations. Nigeria Deposit Insurance Corporation of the termination of the staff during the monthly returns in compliance with the Bankers’ Committee decision of J41 ’ December, 1982 and the provisions of sections 39 and 40 of NDIC Decree No. 22 of 1988 to avert recycling of such staff In the financial industry.
+Where the individual involved is a staff, upon judgement, the decision of the Court is circularized to all staff of he Bank to sensitize them of the incident and to serve as a deterrent to other staff who might want to be involved in such an act.
+The Policy
+Each business Unit will implement and maintain a fraud management program that meets the minimum requirements as defined in th1s document. These requirements are consistent With Wema Bank‘s Operational Risk policy.
+For the fraud prevention and controls to be effective, the responsibility far ownership of the policy must not be one staff member or a group of staff members, it must include all levels of management and staff.
+Expected Behavior
+The Managing Director, Director and Managers have responsibility to act as a good role model. All employees and contractors are to act ethically and not tolerate or condone unethical practices or fraud.
+Employees are to take reasonable and appropriate action to:
+• Prevent unethical practice or fraud in the business.
+• Deal with any concern or information in relation to where fraud arises
+• Report any reasonable Suspicions that might have occurred an any of the following areas
+• Official misconduct (Including fraud and corruption)
+• Maladministration
+• Negligent management
+• Danger to public health or safety, or environment
+• Danger to person with a disability
+• An offence involving substantial danger to the environment
+• Reprisal against those who make a report
+• Maintain appropriate confidentiality in relation to the suspected fraud and report to the appropriate officers
+• When suspecting fraudulent activity, employees should also be mindful of the procedures for reporting Improper conduct and the principles of natural justice.
+• Fraudulent activity may be reported in accordance with the Whistle blowers Policy of the Bank,
+Reporting a Suspected Fraud
+Initially, employees with suspicions, concerns or information about matters thai could be considered fraud are advised to
+• Observe what is occurring and make written notes, If appropriate
+• Carefully consider the information that they have and ask themselves if there are reasonable grounds to form an honest belief thar the information tends to show the conduct or danger
+• If reasonable grounds exist, promptly report the information ro an appropriate officer
+• Ensure that only chose who need to know are informed
+• Not a1ert people who may possibly be involved
+• Ensure that any notes and other evidence is handled carefully and kept secure
+A suspected fraud may be reported at any time orally, either by telephone Dr in person, or in writing. People making a report may remain anonymous, however it is better to provide contact details in case of a need for clarification. This gives credibility and will assist investigators to check findings and will assist with a prompt and successful investigation.
+Employees may report a fraud to any of the following:
+• Managing Director/CEO
+• Legal Adviser/Company Secretary
+• Chief Risk Officer
+• Chief Human Resources Officer
+• Chief Compliance Officer
+• Chief Audit Executive
+• Chief Finance Officer
+• Chief information Security Officer
+• Freud Desk Unit via e-mail
+• Supervisor/Manager
+When this is not appropriate or you wish to remain anonymous, matters may be reported through the bank's whistle blower platform an the Wema Bank website.
+Disclosures can be made in any of the following ways:
+• By clicking on the "blow a whistle’ link hosted on the Bank's website Dr sent directly to whistle-blowing@wemabank.com
+• Telephone calls to any of the following hotlines:
+• MD/CEO's Hotline +234-1-271-1234
+• Chief Audit Executive's Hotline +234-1-2179439/0B094214819
+• Legal Adviser/Company Secretary's Hotline +234-1-2711221/OB088155S12
+• Chief Human Resource Officer’s Hotline +234-1-4622634/08025015 05
+• Chief Compliance Officer's Hotline +234-1-4622494/O8O22230169
+• Chief information Security Officer
+• Chief Information Security Officer’s Hotline +234-1-2778643/07082202063
+• Head, Investigation's Hotline +234-1-4622364/08033448971
+• Purple Connects Hotline+234-1-700-2255-2528/ 08039003700
+Where a serious allegation has been made that could result in reprisals against the Discloser, the recipient of the information must treat the disclosure confidentially.
+Breaches
+We rake any failure to comply with this Policy very seriously. In certain circumstances, a breach of this Policy could be referred to an appropriate authority for investigation. Several consequences could flow from a breach, including termination of employment or contract and prosecution
+To help her employees to comply with this Policy, the bank will:
+• train her employees about this Policy, the Fraud Prevention Procedure and employee's obligations under relevant legislation, codes and guidelines; maintain a Fraud Prevention Procedure to set out the way in which fraud risk will be managed at Wema Bank PLC; and
+• provide adequate resources to manage and investigate breaches of this Policy.
+Roles and Responsibilities
+Audit Committee
+The committees’ specify responsibilities in relation to fraud are as follow: To help her employees to comply with this Policy, the bank will:
+• Review whether management has in place a current and comprehensive risk management framework and associated procedures for effective identification and management of business and financial risks, including fraud.
+• Review whether management has taken steps to embed a culture which is committed to ethical and lawful behavior.
+• The Audit Committee is to be advised of the outcomes of the investigation into any fraud or suspected fraud by Internal Audit.
+Enterprise Risk Management
+The Enterprise Risk Management (ERM) is responsible for the development, implementation and monitoring of the Bank’s Risk Management Strategy and action plan.
+Internal Auditors
+
+• The risk of fraud can be through an effective and efficient internal control programs
+• The Internal Auditor’s role Is to ensure that internal control programs put in place by the Management of the Bank are being adhered to and where there is any variance, she should present their findings and recommendations to the Chairman, Board Audit Committee and the Managing Director. The report of their findings Is equally made available to Chief Compliance Officer who will delegate her staff to ensure all exception raised are closed.
+Employee Awareness
+
+It is important that employees are aware of the Fraud Risk Management Policy and in particular the expectation to act ethically and not to tolerate or condone unethical practice or fraud. The Fraud Risk Management Policy is available on the intranet of the Bank.
+• Staff is made aware that the policy has been reviewed.
+• Staff should be notified by HCM of the revised policy so that they will not claim ignorance of the policy and be appropriately guided:
+• Human Capital Management will ensure that information supporting a culture of fraud awareness is available to directors, managers, coordinators and staff, including:
+• Culture of disclosure
+• Need for clear accountabilities and processes
+• Adherence to internal Controls, including management and audit review
+• Taking leave and rotation of responsibilities
+• New employees are informed of the Fraud Risk Management Policy and the Bank's expectations as part of the induction process
+The Executive Directors of the different Business Regions will ensure that employees with an exposure to functions where there exists a particular risk of fraud will regularly receive on-the- job training.
+These include but are not limited to staff with management responsibilities, staff with purchasing responsibilities, staff with exposure to cash handling and those in risk asset creation roles
+Fraud Policy Implementation
+Transition Considerations
+
+The Fraud management Policy should be integrated with the existing fraud management structures Compliance & Conduct, Internal Audit and ERM available in the Bank.
+Timeline
+
+Wema Bank PLC Fraud Management Policy Is effective immediately it is approved. Each Business Unit will have to review the policy and submit a request for approval of temporary exceptions where additional time is required for transiting the business into Compliance. These requests are to be Submitted to the Chief Audit Executive, Chief Compliance Officer, Chief Information Security Officer and the Chief Risk Officer and must include an action plan and timetable for compliance.
+Deviation Requests
+
+The Policy — any deviation from the standards set forth In this policy requires the approval of the Chairman, Statutory Audit Committee, Managing Director/CEO, Chief Audit Executive, Chief Compliance Officer, Chief Information Security Officer and the Chief Risk Officer.
+Business Specific Policy - Deviations to business specific fraud policies requires the approval of the Executives, Chief Risk Officer, Chief Compliance Officer, Chief Information Security Officer and Chief Audit Executive.
+Treatment of fraud balance
+
+Frauds involving staff; be it outsourced or full-time employee, are being insured with our insurance companies through our Brokers: Glanvill Enthoven Insurance Brokers & Pensions Consultants Ltd and Pro Risk Insurance Broken. A minimum of 80% of the unrecovered amount from the staff and others is recoverable from the insurance companies.
+On the discovery of the fraud and approval of the investigation report by Management, the fraud amount i5 debited into the Fraud & Forgery account of the domiciled branch of the customer and the affected customer is appropriately refunded.
+Where it is a fraud amount that is not recoverable and it is caused by an external party, we debit the Fraud & Forgery expense of the domiciled branch after the approval pl the report by Management and credit the affected Customer. We will then report the third party to the Law Enforcement Agency for possible recovery and prosecution of 1e third party.
+However, be it fraud committed by staff or external parties, the fraud balances are being treated according to the CBN Prudential guidelines on provision and Credit subsequent recoveries to
+Fraud Policy: Required Elements
+
+Each Business Unit is required to implement a fraud Management Program. at a minimum, the program must contain the following elements:
+Organization
+
+A critical element of a successful fraud risk management program is the establishment of an appropriate organization. The Chief compliance Officer will appoint a Compliance Officer who will be in a branch/SBU to ensure that all controls put in place are effective and efficient The CAE will also detail Auditors who will visit branches/SBUs periodically to verify that all controls put in place are being adhered to.
+Business-Specific Fraud Policies and Procedures
+
+In addition ta an appropriate organization, a second critical element is the creation of an appropriate business-specific fraud policy tailored to the type of fraud risks faced by the business. The CAE and other Head, of Control functions are responsible for the establishment and maintenance of business-specific fraud policy. Additionally, the CAE is responsible for ensuring compliance with both business-level fraud policies and the Wema Bank Fraud Policy. Lastly, the EAE will ensure that procedures are developed to meet the objectives of the business and corporate policies,
+Fraud Policy: Required Elements
+
+The Risk and Control-Self Assessment (RCSA) standards included in the Wema Bank Operational Risk Policy are intended to cover all risks in all business units. Businesses that comply with the Wema Bank Operational Risk Policy and have a Risk and Control self-assessment process in place can use that process. to satisfy the requirements herein, provided they have specifically covered Fraud Risk In their reviews.
+The CAE and other Head of Control Functions will ensure a review of each product Is performed, including new products. They must ensure routine assessment and record keeping of fraud vulnerabilities, fraud controls, and audit trails. They should work with the Business Unit to address identified fraud vulnerabilities and ensure appropriate controls are included in their product policy.
+A list of “Key Risk" inflators are to be developed for each product. Key Risk indicator5 are to be used In the development or enhancement of fraud prevention/detection toots associated with each product. These indicators/fraud management controls Can be documented within the technical requirements of a new product or process or within the detail of a test brief.
+There must be a review and appropriate approval of the functional specifications of all new automated systems that will be u5ed to deliver the Business Units products and services. This review should ensure that adequate audit traits and fraud detection features are included in the design of the system.
+There must be periodic tests (as appropriate) of all existing automated Systems that are used to deliver the Business Unit products and services. Assessment will con3isŁ of running test scenarios, based upon known fraud schemes and methods against the controls of the 5y3tem to determine the strength of preventive and detective controls. Test results will be documented and used to recommend improvements to identified deficiencies. For example, analysis of Losses and the resulting inadequacies of controls could serve as appropriate tests.
+The CAE, CCO, CISO and CRO will conduct a quarterly self-assessment (or on a frequency that is appropriate for the specific business) of the Fraud Policy and program implementation through Internal Auditors and compliance officers. Documented findings are to be reported to the Chair Man Board Audit Committee
+There should be a program of appropriate pre-employment screening in place for permanent, temporary staff, consultants, Outsourcing staff, etc., Where legally permissible, the Human Capital Management should review law enforcement records, conduct fin8er print verification, address verification (KYC), drug testing and credit agency verification, review Central Bank closed-account lists, review prior employment and personal data verification of the new employees.
+In addition, the CAE, CFO, CISO and CRO must ensure that the Bu5ines5 Unit is in compliance which the Wema Bank Human Capital Management Policy.
+Training and Awareness
+The Chief Audit Executive (CAE) is responsible far ensuring a business-specific fraud awareness training program are offered to appropriate employee5 on a scheduled basis (for example, twice a year). The training schedule can also be part of operational risk management training curriculum or any specialized training at the bank's training school,
+Suggested topics include, depending upon employee responsibilities:
+• General Financial fraud topics
+• Examples of significant fraud cases
+• Root Causes and red flags
+• Fraud types by product
+• Understanding and analyzing fraud in MIS reports
+• Fraud prevention control (systems and technology)
+• Specific securely procedures for high-risk operational positions
+Employee Awareness
+
+It is important that employees are aware of the Fraud Risk Management Policy and in particular the expectation to act ethically and not to tolerate or condone unethical practice or fraud. The Fraud Risk Management Policy is available on the intranet of the Bank.
+• Staff is made aware that the policy has been reviewed.
+• Staff should be notified by HCM of the revised policy so that they will not claim ignorance of the policy and be appropriately guided:
+• Human Capital Management will ensure that information supporting a culture of fraud awareness is available to directors, managers, coordinators and staff, including:
+• Culture of disclosure
+• Need for clear accountabilities and processes
+• Adherence to internal Controls, including management and audit review
+• Taking leave and rotation of responsibilities
+• New employees are informed of the Fraud Risk Management Policy and the Bank's expectations as part of the induction process
+The Executive Directors of the different Business Regions will ensure that employees with an exposure to functions where there exists a particular risk of fraud will regularly receive on-the- job training.
+These include but are not limited to staff with management responsibilities, staff with purchasing responsibilities, staff with exposure to cash handling and those in risk asset creation roles
+9 Review
+The Chief Compliance Officer, Chief Audit Executive, Chief Information Security Officer and Chief Risk Officer are responsible for the administration, revision, interpretation and application of this policy The Policy will be reviewed biennially and revised an need-to-do basis.

@@ -1,0 +1,28 @@
+Compliance & AML (Anti-Money Laundering) — Wema Bank (Expanded)
+
+Regulatory Framework:
+Wema Bank operates under national regulations (e.g., Central Bank guidance) and international standards for anti-money laundering (AML), counter-terrorist financing (CTF), and sanctions compliance. The bank implements policies to detect and disrupt illicit financial flows.
+
+Core Components:
+1. KYC & Customer Due Diligence:
+- Verify identity and beneficial ownership for all customers; enhanced due diligence for high-risk customers such as PEPs.
+- Ongoing monitoring to reassess risk profiles over time.
+
+2. Transaction Monitoring:
+- Automated systems profile transaction behaviors and flag patterns that indicate structuring, layering, or suspicious movement.
+- Alerts are investigated by compliance teams; confirmed suspicious activity reports (SARs) are filed with regulators where required.
+
+3. Sanctions Screening:
+- Screening customers and transactions against global sanctions lists to ensure no prohibited parties or flows are processed.
+- Reject or freeze transactions involving sanctioned entities and notify authorities per legal requirements.
+
+4. Reporting & Recordkeeping:
+- Suspicious transaction reporting, regulatory filings, and maintaining records to support audits and investigations.
+- Cooperate with law enforcement and regulatory inquiries while protecting customer confidentiality to the extent permitted by law.
+
+5. Training & Culture:
+- Regular staff training on AML controls, identifying red flags, and escalation procedures.
+- Strong governance with a dedicated compliance function, independent testing, and board oversight.
+
+Penalties & Enforcement:
+- Non-compliance carries regulatory penalties, reputational damage, and legal consequences. The bank runs internal audits and remedial programs to close control gaps.

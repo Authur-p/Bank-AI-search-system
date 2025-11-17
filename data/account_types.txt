@@ -1,0 +1,46 @@
+Wema Bank — Account Types (Expanded)
+
+Overview:
+Wema Bank provides a range of personal and business account types designed to meet differing needs — from basic savings for individuals to corporate current accounts and specialized accounts for small businesses and NGOs. Each account type includes features like online access, debit cards, and customer support channels. Below are commonly available account types and key characteristics.
+
+1. Savings Accounts:
+- Purpose: Encourage saving and provide secure place for personal funds.
+- Features: Competitive interest rates (tiered), minimum balance tiers, ACH/transfer support, e-statements, access to mobile and internet banking (ALAT).
+- Typical use: Personal savings, goals, emergency funds.
+- Requirements: Valid ID, proof of address, BVN (where applicable).
+
+2. Current Accounts:
+- Purpose: Daily transactions for businesses and individuals who transact frequently.
+- Features: Unlimited debit transactions, cheque book (for applicable plans), multi-user access (for business/current accounts), dedicated relationship manager for some corporate tiers.
+- Typical use: Payroll, merchant transactions, business expenses.
+- Requirements: Corporate documents for businesses (C-of-I, CAC forms), signatories, BVN for individuals.
+
+3. Salary Accounts:
+- Purpose: Receive employer payroll, often bundled with loan/overdraft features and preferential rates.
+- Features: Zero or reduced maintenance fees, salary-linked loan offers, card issuance, automated salary credit benefits.
+- Typical use: Employee wages, salary-related benefits.
+- Requirements: Employer verification, salary domiciliation instruction.
+
+4. Junior/Children Accounts:
+- Purpose: Savings and financial education for minors.
+- Features: Parental/guardian oversight, lower minimum balances, educational insights in app, limited transaction types.
+- Typical use: Teaching children saving habits.
+
+5. Diaspora/Non-resident Accounts:
+- Purpose: Serves non-residents who need Nigerian banking access or remittance handling.
+- Features: Multi-currency support (where offered), remittance-friendly rails, online onboarding options.
+- Requirements: Proof of identity, residence, and remittance documentation.
+
+6. Corporate/Business Accounts:
+- Purpose: Serve SMEs to large corporates; support payroll, collections, and trade operations.
+- Features: Multi-user access, payroll services, bulk payments, APIs (where available), specialized relationship management, trade finance offerings.
+- Requirements: Corporate documents, tax identification, authorized signatories, KYC for beneficiaries.
+
+Account management tips:
+- Keep BVN and KYC information up to date to avoid transaction restrictions.
+- Use ALAT or corporate internet banking for faster reconciliation, alerts, and statements.
+- Regularly review charges and transaction limits; opt for account plans that match transaction volume to reduce fees.
+
+Security & customer support:
+- Protect login credentials, use strong passwords and enable two-factor features when available.
+- In case of suspicious activity, contact customer support immediately and consider temporarily blocking your card via the mobile app.

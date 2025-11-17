@@ -1,0 +1,30 @@
+Service Management & Operations — Wema Bank (Expanded)
+
+Service Philosophy:
+Wema Bank focuses on delivering reliable, timely, and customer-centric services. Service management covers availability, incident handling, change management, capacity planning, and service-level commitments to customers.
+
+Key Domains:
+1. Incident Management:
+- Rapid detection and response to service outages and customer-impacting incidents.
+- Clear escalation paths, incident logging, and post-incident reviews to prevent recurrence.
+
+2. Change & Release Management:
+- Controlled rollout of new features and fixes, including testing, staging, and rollback plans.
+- Communication plans for customers when significant service changes or downtime are expected.
+
+3. Capacity & Performance Management:
+- Monitoring of infrastructure to ensure transaction volumes are supported without degradation.
+- Seasonal and promotional load planning to avoid outages.
+
+4. Customer Experience & Feedback:
+- Channels: In-app chat, phone support, email, and social media monitoring.
+- Continuous improvement via customer feedback loops, surveys, and NPS tracking.
+
+5. Business Continuity & Disaster Recovery:
+- Backup systems, failover data centers, and runbooks for critical services.
+- Regular drills and supplier resilience assessments to ensure continuity during major incidents.
+
+Operational best practices:
+- Maintain up-to-date runbooks and on-call rosters.
+- Automate monitoring and alerting for abnormal behaviors and thresholds.
+- Ensure clear communication to customers during incidents — transparent timings and remediation guidance.

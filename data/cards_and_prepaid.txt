@@ -1,0 +1,38 @@
+Cards & Prepaid — Wema Bank (Expanded)
+
+Overview:
+Wema Bank issues debit cards, prepaid cards, and other card products designed for daily payments, travel, or business payouts. Card controls are integrated into digital platforms (ALAT) to help customers manage usage and reduce fraud exposure.
+
+Card Types:
+1. Debit Cards:
+- Linked directly to account balances for purchases and ATM withdrawals.
+- Card variants may offer contactless capabilities and different daily limits.
+- Use: Everyday payments, ATM withdrawals, POS transactions.
+
+2. Prepaid Cards (including Travel Cards):
+- Purpose: Controlled spending and safer online checkout; travel cards support foreign currency transactions.
+- Features: Loadable, reloadable cards; can be issued to non-customers in some cases.
+- Use: Travel, gifting, or merchant-specific spending.
+
+3. Virtual Cards:
+- Purpose: One-time or recurring online payments without exposing physical card details.
+- Features: Easily disposable numbers, control over limit and expiration, in-app issuance for immediate use.
+
+Security & Controls:
+- Instant card lock/unlock via ALAT and internet banking.
+- Set per-transaction and daily limits; enable or disable contactless payments.
+- OTP and 3-D Secure for online transactions where supported by the merchant and network.
+
+Fees & Charges:
+- ATM withdrawal fees (in-bank vs out-of-network), card issuance fees, and foreign transaction fees may apply.
+- Travel or foreign-currency cards may carry conversion spreads and loading fees.
+- Always check the most recent fee schedule prior to travel or high-volume use.
+
+Lost or Stolen Cards:
+- Immediately lock via the app or contact customer care to hotlist the card.
+- Review recent transactions and, if fraud is suspected, file a dispute promptly.
+
+Best practices:
+- Use virtual cards for repeat online vendors or services you don't fully trust.
+- Keep contact details up to date with the bank to receive timely alerts on suspicious activity.
+- When traveling, notify the bank (where available) to reduce the risk of card blocks due to cross-border transaction patterns.

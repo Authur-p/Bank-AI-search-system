@@ -1,0 +1,31 @@
+Fraud Prevention & Security — Wema Bank (Expanded)
+
+Principles:
+Wema Bank emphasizes proactive fraud detection, customer education, layered security, and rapid incident response. Fraud prevention is a shared responsibility: the bank provides tools and monitoring while customers follow safe practices.
+
+Common Fraud Types:
+- Phishing & vishing: Scams that solicit PINs, OTPs, or account information via email or phone.
+- Card cloning & skimming: Fraudsters copy card details at compromised ATMs or POS terminals.
+- Account takeover: Unauthorized access through credential compromise.
+- Social engineering: Manipulating users into revealing sensitive data or making transfers.
+
+Bank Measures:
+- Transaction monitoring systems flag unusual patterns (velocity checks, geo anomalies, large transfers, rapid duplicate transactions).
+- Multi-factor authentication for sensitive operations and high-risk channels.
+- Tokenization and encryption of card data on digital channels.
+- Whistle-blowing and internal controls to detect insider risk.
+
+Customer Actions & Guidance:
+- Never share OTPs, PINs, or full card details with anyone.
+- Use in-app controls to limit card use and freeze cards when suspicious.
+- Verify unsolicited contact: legitimate bank channels rarely request full PINs or OTPs.
+- Immediately report suspected fraud through official support channels and retain transaction references for disputes.
+
+Incident Response:
+- Report: Contact customer care and provide transaction details and timestamps.
+- Investigation: The bank will investigate, sometimes engaging law enforcement and cyber forensic specialists.
+- Reversal & remediation: For validated fraudulent transactions, funds may be reversed depending on investigation findings and policy.
+
+Education & Awareness:
+- Regular campaigns to inform customers about emerging scam tactics.
+- Tutorials on using app security features, recognizing fake websites, and safe online shopping.

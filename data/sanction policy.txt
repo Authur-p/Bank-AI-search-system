@@ -1,0 +1,22 @@
+Sanctions Policy 
+ Wema Bank is obliged to comply with Sanctions Laws ("Sanctions"). Any breach of Sanctions may have a serious impact on our reputation, franchise, regulatory relationships and could impair the Bank’s ability to provide timely services to our customers.
+The Bank relies on the conduct of our customers to comply with Sanctions and hereby requires that customers confirm and will ensure that;
+(i) they and their businesses (including subsidiaries and sister companies) are not targets or subject of Sanctions.
+(ii) no product, service or transaction involving Wema Bank will be utilized for the benefit of any person or business that is a target or subject of Sanctions or in any manner that would result the customer of their businesses or the Bank to be in breach of any applicable Sanctions or becoming a target or subject of Sanctions.
+(iii) We reserve the right to not provide any product or service or process any transaction where such may be or cause us to breach the Wema Bank’s Sanctions policy.
+
+Service Management Policy 
+ Wema Bank Plc is a commercial and retail banking organization within the Federal Republic of Nigeria. Wema Bank has put in place an IT Service Management System to ensure adequate delivery of managed services, measure service levels, and assess the service performance of various partners (internal and external) of the organization. The scope of the IT Service Management System includes Wema Bank’s internal personnel operating and managing the ISO 20000:2018 Management System Standard as well as other key stakeholders who have a role in the SMS, including employees of Wema Bank IT Department, and external parties who have a role in the SMS.
+“Wema Bank IT Department is committed to ensuring the delivery of quality services to its customers (internal & external) across all platforms and touch points with respect to the Service Level Agreement. This responsibility will be operated and maintained by continual improvement of our people, process, and technology.”
+This is achieved by:
+Understanding the bank’s needs and the necessity for establishing Service Management policies and objectives.
+Ensuring that this Service Management policy is in accordance with the requirements of ISO 20000 international standard, needs, and expectations of interested parties, and legal, regulatory, and statutory requirements.
+Establishing, implementing, and maintaining service management objectives including operating and maintaining processes, capabilities, and structures for evaluating performance and continual improvement of the system.
+Designating the Chief Information Officer (CIO) as the Management Representative for Service Management efforts across the Bank. The Head, Enterprise Service Management, is responsible and accountable for establishing, maintaining, and disseminating the Bank’s Service Management policy to the rest of the organization and other interested parties (stakeholders).
+Ensuring that interested parties are made aware of the bank’s Service Management Policy using the ITSM Communication and Awareness Plans.
+Ensuring that the Bank’s Service Management Policy (or relevant aspects of the document) is made available to interested parties.
+Establishing Service Management objectives in support of the Service Management policy.
+Creating a service management plan that contains Service Management objectives, plan to achieve objectives, control of parties involved in the service lifecycle, and Service Level Agreements.
+Auditing the bank’s service management system including adherence to its service management policy.
+Ensuring all staff of Wema Bank (and interested parties) adhere strictly to the Bank’s Service Management Policy.
+Reviewing the effectiveness of the bank’s Service Management policy at least annually and after a major change, thus promoting a continual improvement of the bank’s service management system based on qualitative and quantitative measures.

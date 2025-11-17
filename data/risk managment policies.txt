@@ -1,0 +1,27 @@
+Risk Management Policy 
+ The Bank’s Risk Management Framework is set up on a distinct organizational structure and established policies to guide in the process of identifying, analyzing, managing, and monitoring the various risks inherent in the business as well as setting appropriate risk limits and controls to align the risks with the strategic objectives.
+The Bank’s activities and processes involve the identification, measurement, evaluation, acceptance and management of risk or combinations of risks. The Board, advised by the various Board and Management Risk Committees, requires and encourages a strong risk governance culture which shapes the Bank’s attitude to risk.
+Risk Governance
+The governance structure supporting our risk cycle is designed to deliver the right information, at the right time, to the right people. The Bank adopts a holistic view of in the assessment and management all major risks. Wema remains vigilant regarding both known and emerging risks and ensure that we are strong enough to withstand any exogenous shocks. Our board risk committees play a critical role in providing oversight of risk management and ensuring that our risk appetite, risk culture and risk profile are consistent with and support our strategy to deliver long-term and sustainable growth.
+The Board, either directly or acting through its committees sets the risk appetite of the Bank. The Board sets this risk appetite taking into cognizance our strategic objectives and the risks that the organization is willing to assume in pursuing these objectives. At all points, the Board is acutely aware of the fact that while risk appetites and tolerance levels are set individually for various risks, there is a strong correlation among several risks and often these risks reinforce each other. Our policies and processes are aligned with our risk management strategy and established risk appetite.
+Our employees are encouraged to monitor, assess, report, and actively manage risks within their operational spheres. Comprehensive risk registers are maintained, and an annual review is undertaken of all business units and processes through the Risk and Control Self-Assessment exercise (RCSA). A culture of personal accountability and integrity is encouraged throughout the organization and employees are encouraged to report observed wrongdoings anonymously through dedicated whistleblowing channels. Regular training in all aspects of our risk culture helps to reinforce expected behavior.
+Risk Management Strategy
+Risks are identified and documented through the Bank’s risk map process which sets out the Bank’s risk profile concerning key risk categories in its component business units. Identified risks are regularly assessed through the bank’s risk appetite framework, stress testing process, and in terms of emerging risks. Using the Basel II Pillar 1 framework, our Credit, Operational, and Market risks are regularly measured and monitored. Other Pillar 2 risks are measured and provided for through our Internal Capital Adequacy Assessment Process (ICAAP).
+The management of risk is evolving and necessitates a regular review of the effectiveness of each enterprise risk management component. It is in light of this that the Bank’s ERM Framework is subject to continuous review to ensure effective and cutting-edge risk management. The review is done in the following ways:
+Through continuous self-evaluation and monitoring by the risk management and compliance functions in conjunction with internal audit; And independent evaluation by external auditors, examiners, and consultants.
+Wema Bank runs an automated approach to managing, communicating, and implementing enterprise risk management policies and procedures across the Bank. This provides an integrated and dynamic platform for documenting and analyzing risks, developing mitigation plans, defining controls, and managing continuous risk assessments. It provides clear visibility on key risk indicators, assessment results, and compliance initiatives. We believe that understanding and managing our risks and continuously improving our controls are central to the delivery of our strategic objectives.
+We use robust and appropriate scenario stress testing to assess the potential impact on the Group’s capital adequacy and strategic plans. Our stress testing and scenario analysis programme is central to the monitoring of strategic and potential risks. It highlights the vulnerabilities.
+The Bank has exposure to the following risks from financial instruments:
+• Credit risk
+• Liquidity risk
+• Market risk
+• Operational risk
+The Bank’s corporate vision, mission and objectives remain the fulcrum around which the risk management strategies revolve, these include:
+• Definition of strategic objectives.
+• Proactive portfolio planning.
+• Proactive control over money and capital market activities.
+• Proactive account planning.
+• Conduct a consistent portfolio review.
+• Regular conduct of macro-economic review.
+• Institution of robust IT – driven operational process; and
+• Definition of risk and return preferences.
