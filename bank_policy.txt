@@ -1,0 +1,2 @@
+
+    'bank_policy.txt': "Transfer above #5,000,000 require manager approval.
